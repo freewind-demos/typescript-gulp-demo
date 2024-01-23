@@ -1,10 +1,14 @@
 {
   "scripts": {
-    "start": "gulp"
+    "start": "rm -rf build && gulp"
   },
   "devDependencies": {
+    "@types/gulp": "4.0.17",
+    "@types/gulp-minify": "3.1.5",
     "gulp": "4.0.2",
     "gulp-cli": "2.3.0",
-    "gulp-minify": "3.1.0"
+    "gulp-typescript": "6.0.0-alpha.1",
+    "ts-node": "10.9.2",
+    "typescript": "5.3.3"
   }
 }
