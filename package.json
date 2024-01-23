@@ -1,10 +1,10 @@
 {
-    "scripts": {
-        "start": "gulp"
-    },
-    "devDependencies": {
-        "gulp": "^3.9.1",
-        "gulp-cli": "^2.0.1",
-        "gulp-minify": "^3.1.0"
-    }
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "4.0.2",
+    "gulp-cli": "2.3.0",
+    "gulp-minify": "3.1.0"
+  }
 }
